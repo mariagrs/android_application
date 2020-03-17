@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item  android:id="@+id/scan"
+        android:title="Scan"
+        android:icon="@drawable/ic_party_mode"/>
+
+    <item android:id="@+id/listView"
+        android:title="List"
+        android:icon="@drawable/ic_list"/>
+
+</menu>

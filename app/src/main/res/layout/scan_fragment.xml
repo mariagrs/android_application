@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:id="@+id/empty_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <com.wonderkiln.camerakit.CameraView
+            android:id="@+id/cameraview"
+            android:layout_width="match_parent"
+            android:layout_height="500dp"/>
+
+
+    <ImageButton
+        android:id="@+id/scanBtn"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_gravity="center"
+        android:layout_marginStart="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginBottom="20dp"
+        android:background="@drawable/custom_button_round"
+        android:src="@drawable/ic_photo_camera_black_24dp" />
+
+
+
+    </LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "682219554957",
+    "firebase_url": "https://myapp-cb62c.firebaseio.com",
+    "project_id": "myapp-cb62c",
+    "storage_bucket": "myapp-cb62c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682219554957:android:8d2541cc03db2a5ce6fac4",
+        "android_client_info": {
+          "package_name": "maria.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682219554957-ia96kb5o57krtiglagfjkqe68q9a9k6v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "maria.project",
+            "certificate_hash": "8ddddf521c8595820754bc3eea2e87b75cdeb90b"
+          }
+        },
+        {
+          "client_id": "682219554957-hfc1l8bbe1od17mm3akojqndj22qlhs3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3IevqEMzpTK1wcAFnXrIkGaN2vuC8pGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682219554957-hfc1l8bbe1od17mm3akojqndj22qlhs3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
